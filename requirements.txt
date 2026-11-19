@@ -1,0 +1,9 @@
+aiogram>=3.13
+python-dotenv>=1.0
+# optional: Claude analysis when ANTHROPIC_API_KEY is set
+anthropic>=2.0
+# tests
+pytest>=8.0
+pytest-asyncio>=0.24
+# only for scripts/make_samples.py and scripts/record_demo.py (uses installed Google Chrome)
+playwright>=1.45
