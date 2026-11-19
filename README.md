@@ -4,7 +4,9 @@ A Telegram bot. The user sends a **photo of a German official letter** (Jobcente
 
 ![Demo: photo of a letter in, clear answer out](docs/demo.gif)
 
-▶️ **Full demo video (50 s):** [demo.mp4](demo.mp4)
+▶️ **Full demo video (50 s):**
+
+https://github.com/user-attachments/assets/0b4e615d-e957-42d9-bcc1-c0c260325351
 
 | Pick a letter | Answer in Russian | Answer in Ukrainian + reply draft |
 |---|---|---|
